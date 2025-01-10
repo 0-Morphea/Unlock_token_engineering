@@ -1,0 +1,4 @@
+- `streamlit`: For building the interactive web app.
+- `numpy`: For numerical computations.
+- `pandas`: For data manipulation.
+- `matplotlib`: For plotting graphs.
